@@ -6,6 +6,10 @@
 Project: L.L.A.M - Locust Location & Apprehension Module
 =======================
 
+```
+Winner: Most Popular Choice award
+```
+
 > "Save crops from locust attacks"
 
 **Web App**: https://locustlocator.vercel.app 🔗
